@@ -23,6 +23,10 @@ LLM (Large Language Model) Vector Store Datasets containing all the information 
  
 ## Overview
 
-The files under `The Dataset (Verus 2.2)` folder are the current/active datasets thats getting used by the [bots](https://github.com/Shreyas-ITB/Verus-LLMBots) and the [LLMAPI](https://github.com/Shreyas-ITB/Verus-LLMAPI). It is also the maintained version of the dataset that you can use or contribute to.
+The files under `The Dataset (Verus 2.2)` folder are the current/active datasets thats getting used by the [Bots](https://github.com/Shreyas-ITB/Verus-LLMBots) and the [LLMAPI](https://github.com/Shreyas-ITB/Verus-LLMAPI). It is also the maintained version of the dataset that you can use or contribute to.
 
 The old LLaVa model's dataset along with the old deprecated datasets and audio media files are given in this repository as well to tinker around.
+
+## Discord Test Server
+
+https://discord.gg/N2wVaxHWpH
